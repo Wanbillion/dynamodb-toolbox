@@ -32,7 +32,7 @@
   "devDependencies": {
     "@arethetypeswrong/cli": "^0.15.4",
     "@aws-sdk/client-dynamodb": "^3.687.0",
-    "@aws-sdk/lib-dynamodb": "^3.687.0",
+    "@aws-sdk/lib-dynamodb": "^3.716.0",
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
     "@types/node": "^18.0.0",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
